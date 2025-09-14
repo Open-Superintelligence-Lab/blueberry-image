@@ -2,3 +2,5 @@ accelerate
 diffusers
 datasets
 matplotlib
+tqdm
+Pillow
